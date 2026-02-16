@@ -164,7 +164,7 @@ Sky colors result from **Rayleigh scattering** — scattering intensity is propo
 Finger wrinkling is an **active nervous system response**, not simple osmosis:
 
 - The brain constricts blood vessels in fingertips (vasoconstriction), causing skin to fold into wrinkles. If finger nerves are damaged, wrinkling does not occur — proving it is neurologically controlled.
-- **Evolutionary purpose:** Wrinkled fingers improve grip on wet objects, similar to how tire treads channel water for better traction.
+- **Evolutionary purpose:** Wrinkled fingers improve grip on wet objects — the wrinkles act as channels that divert water away from the contact surface, increasing friction, similar to how tire treads channel water to maintain road grip.
 
 **Key Concepts:** Nervous system response, vasoconstriction, evolutionary adaptation
 
