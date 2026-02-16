@@ -5,16 +5,20 @@ ScientificTemper preparation for high school students
 
 This repository contains resources for preparing for the Scientific Temper Competition:
 
-- **[Sample Questions and Answers](sample_questions_and_answers.md)** - Comprehensive collection of 12 sample questions with detailed answers covering various day-to-day scientific observations and phenomena
+- **[Sample Questions and Answers](sample_questions_and_answers.md)** - Comprehensive collection of 12 sample questions with detailed answers covering various day-to-day scientific observations and phenomena, including evaluation criteria and reasoning approach guidance
 
 ## About Scientific Temper Competition
 
-The Scientific Temper Competition tests the approach and reasoning ability of students regarding happenings related to normal day-to-day activities and observations of the world. It encourages students to:
+The Scientific Temper Competition tests the approach and reasoning ability of students regarding happenings related to normal day-to-day activities and observations of the world. It explores scientific awareness among the student community. Students are expected to answer based on scientific principles and concepts. While evaluating, emphasis is given to understanding of basic scientific principles and approach to solve the problem, rather than just the solution itself.
+
+The competition encourages students to:
 
 - Question everyday phenomena
 - Apply scientific principles to real-world observations
 - Develop logical and analytical thinking
-- Understand the "why" behind common occurrences
+- Show clear reasoning and approach in their answers
+- Provide brief and focused solutions
+- Demonstrate original ideas and creative thinking
 
 ## How to Use
 
