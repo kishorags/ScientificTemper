@@ -7,6 +7,7 @@ This repository contains resources for preparing for the Scientific Temper Compe
 
 - **[Sample Questions and Answers](sample_questions_and_answers.md)** - Comprehensive collection of 12 sample questions with detailed answers covering various day-to-day scientific observations and phenomena, including evaluation criteria and reasoning approach guidance
 - **[Thermodynamics Questions and Answers](thermodynamics_questions_and_answers.md)** - 10 sample questions with detailed answers focused on thermodynamics, covering everyday phenomena such as heat transfer, insulation, phase changes, and the laws of thermodynamics, with concept explanations and visual learning resource links
+- **[Aerodynamics Questions and Answers](aerodynamics_questions_and_answers.md)** - 10 sample questions with detailed answers focused on aerodynamics, covering everyday phenomena such as flight, drag, lift, spinning balls, and wind effects, with concept explanations and visual learning resource links
 - **[ISRO Scientific Temper Reference](isro_scientific_temper_reference.md)** - Background on the ISRO Scientific Temper competition conducted in Bangalore, sample questions from ISRO outreach programmes, and preparation resources
 
 ## About Scientific Temper Competition
