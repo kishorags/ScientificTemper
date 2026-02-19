@@ -6,6 +6,7 @@ ScientificTemper preparation for high school students
 This repository contains resources for preparing for the Scientific Temper Competition:
 
 - **[Sample Questions and Answers](sample_questions_and_answers.md)** - Comprehensive collection of 12 sample questions with detailed answers covering various day-to-day scientific observations and phenomena, including evaluation criteria and reasoning approach guidance
+- **[Thermodynamics Questions and Answers](thermodynamics_questions_and_answers.md)** - 10 sample questions with detailed answers focused on thermodynamics, covering everyday phenomena such as heat transfer, insulation, phase changes, and the laws of thermodynamics
 
 ## About Scientific Temper Competition
 
