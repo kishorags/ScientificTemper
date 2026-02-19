@@ -229,7 +229,7 @@ Metal gets hot quickly because it has much higher **thermal conductivity** than 
 
 4. **Consider All Heat Transfer Modes:** For any temperature change, ask — is heat moving by conduction, convection, radiation, or a combination?
 
-5. **Look for Phase Changes:** Melting, boiling, condensation, and freezing all involve latent heat — energy changes temperature without changing it (energy goes into breaking or forming molecular bonds).
+5. **Look for Phase Changes:** Melting, boiling, condensation, and freezing all involve latent heat — energy is transferred without changing the temperature, because the energy goes into breaking or forming molecular bonds rather than increasing molecular motion.
 
 6. **Use Everyday Analogies:** Relating unfamiliar problems to common experiences (cooking, weather, clothing) strengthens your reasoning.
 
