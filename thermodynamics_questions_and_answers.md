@@ -20,6 +20,111 @@ When evaluating answers, judges emphasize the following (in order of importance)
 
 ---
 
+## Key Thermodynamics Concepts
+
+Before attempting the questions, review these fundamental concepts that form the foundation of thermodynamics. Understanding these will help you reason through any thermodynamics problem.
+
+### 1. What is Thermodynamics?
+
+Thermodynamics is the branch of physics that deals with **heat, work, temperature, and energy**. It describes how energy is transferred and transformed, and governs everything from engines to weather to the cup of tea on your table.
+
+- **System:** The object or region being studied (e.g., a cup of tea, a gas in a cylinder).
+- **Surroundings:** Everything outside the system that can exchange energy with it.
+- **Universe:** System + Surroundings together.
+
+### 2. Temperature, Heat, and Internal Energy
+
+These three terms are often confused but have distinct meanings:
+
+- **Temperature:** A measure of the *average kinetic energy* of molecules in a substance. Higher temperature = faster-moving molecules. Measured in °C, °F, or K (Kelvin).
+- **Heat (Q):** Energy *transferred* between objects due to a temperature difference. Heat always flows from hot to cold. Measured in joules (J) or calories.
+- **Internal Energy (U):** The *total* kinetic and potential energy of all molecules inside a system. It changes when heat is added/removed or work is done.
+
+> **Key distinction:** Temperature is *not* the same as heat. A swimming pool at 30°C has far more internal energy than a cup of tea at 80°C, even though the tea is hotter.
+
+### 3. The Laws of Thermodynamics
+
+There are four laws (numbered 0 through 3) that govern all thermal processes:
+
+**Zeroth Law — Thermal Equilibrium:**
+If object A is in thermal equilibrium with object C, and object B is also in thermal equilibrium with object C, then A and B are in equilibrium with each other. This is what allows thermometers to work — the thermometer reaches the same temperature as the object it measures.
+
+**First Law — Conservation of Energy:**
+Energy cannot be created or destroyed, only transferred or converted: **ΔU = Q - W**
+- ΔU = change in internal energy
+- Q = heat added to the system
+- W = work done by the system
+
+*Example:* When you pump a bicycle tire, the work you do (W) on the air increases its internal energy (ΔU), raising its temperature.
+
+**Second Law — Direction of Heat Flow:**
+Heat flows spontaneously from hot to cold, never the reverse. To move heat from cold to hot (like a refrigerator does), external work must be supplied. This law also introduces **entropy** — a measure of disorder that always increases in an isolated system.
+
+*Example:* A cup of hot tea cools to room temperature on its own, but room-temperature tea never spontaneously heats up.
+
+**Third Law — Absolute Zero:**
+As temperature approaches absolute zero (0 K = -273.15°C), the entropy of a perfect crystal approaches zero. It is impossible to actually reach absolute zero in a finite number of steps.
+
+### 4. Modes of Heat Transfer
+
+Heat can move from one place to another through three mechanisms:
+
+**Conduction** — Heat transfer through direct molecular contact. Molecules vibrate and pass energy to neighbors. Works best in solids, especially metals (which have free electrons that carry energy quickly).
+- *Example:* A metal spoon in hot soup gets hot at the handle.
+
+**Convection** — Heat transfer through the movement of fluids (liquids or gases). Hot fluid rises (less dense), cool fluid sinks (more dense), creating convection currents.
+- *Example:* Warm air from a heater rises to the ceiling, while cool air near the floor moves toward the heater.
+
+**Radiation** — Heat transfer through electromagnetic waves (infrared). Does not require any medium — works even through vacuum.
+- *Example:* You feel warmth from a bonfire even from a distance, through the air, because infrared radiation travels to your skin.
+
+### 5. Phase Changes and Latent Heat
+
+When a substance changes phase (solid ↔ liquid ↔ gas), energy is absorbed or released *without changing temperature*:
+
+- **Latent Heat of Fusion (Lf):** Energy needed to melt a solid (e.g., ice → water: 334 J/g).
+- **Latent Heat of Vaporization (Lv):** Energy needed to boil a liquid (e.g., water → steam: 2,260 J/g).
+
+During a phase change, all the energy goes into breaking or forming molecular bonds rather than increasing molecular motion (temperature).
+
+> *Example:* Ice at 0°C absorbs heat and melts into water at 0°C — the temperature stays constant until all ice has melted.
+
+### 6. Thermal Conductivity and Insulation
+
+- **Thermal conductivity (k):** A measure of how well a material conducts heat. High k = good conductor (metals); low k = good insulator (wood, air, styrofoam).
+- **Insulation** works by trapping air (which has very low thermal conductivity) in small pockets, reducing conduction and convection.
+
+| Material | Thermal Conductivity (W/m·K) |
+|----------|------------------------------|
+| Copper | ~400 |
+| Aluminum | ~205 |
+| Steel | ~50 |
+| Glass | ~1.0 |
+| Wood | ~0.1–0.2 |
+| Air | ~0.025 |
+| Styrofoam | ~0.03 |
+
+---
+
+## Visual Learning Resources
+
+These free resources provide excellent image-based and interactive explanations of thermodynamics concepts:
+
+| Resource | Description | Link |
+|----------|-------------|------|
+| **Khan Academy — Thermodynamics** | Video lessons with visual diagrams on heat transfer, thermal equilibrium, and energy | [Visit →](https://www.khanacademy.org/science/physics/thermodynamics) |
+| **PhET Interactive Simulations** | Drag-and-drop simulations for "Energy Forms and Changes", "States of Matter", and "Gas Properties" — see molecules move in real time | [Visit →](https://phet.colorado.edu/en/simulations/filter?subjects=physics&type=html&sort=alpha&view=grid) |
+| **The Physics Classroom — Thermal Physics** | Step-by-step tutorials with clear diagrams on heat transfer, temperature, and thermal expansion | [Visit →](https://www.physicsclassroom.com/class/thermalP) |
+| **HyperPhysics — Thermodynamics** | Concept maps with linked image-based explanations, ideal for quick visual reference | [Visit →](http://hyperphysics.phy-astr.gsu.edu/hbase/thermo/thermo.html) |
+| **Khan Academy — Heat Transfer Video** | Animated explanation of conduction, convection, and radiation with everyday examples | [Visit →](https://www.khanacademy.org/science/hs-physics/x215e29cb31244fa1:modeling-energy/x215e29cb31244fa1:thermodynamics/v/heat-transfer-high-school-physics) |
+| **PhET — Energy Forms and Changes** | Interactive simulation showing heat flowing between objects, with visual energy representations | [Visit →](https://phet.colorado.edu/en/simulations/energy-forms-and-changes) |
+
+---
+
+## Sample Questions and Answers
+
+---
+
 ## Question 1: Why does a hot cup of tea cool down over time?
 
 **Reasoning Approach:**
