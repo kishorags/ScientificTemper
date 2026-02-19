@@ -122,7 +122,6 @@ ISRO actively promotes scientific temper among students through several programm
 
 ## Preparation Resources
 
-- **[ISRO Old Question Papers Archive](https://www.isro.gov.in/OldQuestionPapers.html)** — While mainly for recruitment, these give insight into ISRO's question style and difficulty level
 - **[ISRO YUVIKA Programme](https://jigyasa.iirs.gov.in/yuvika)** — Details on ISRO's Young Scientist Programme
 - **[Antariksh Jigyasa Space Quiz](https://jigyasa.iirs.gov.in/spacequiz)** — Online space science quiz platform by ISRO
 - **[Khan Academy — Physics](https://www.khanacademy.org/science/physics)** — Free visual explanations of physics concepts

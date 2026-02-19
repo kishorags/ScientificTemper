@@ -115,9 +115,9 @@ These free resources provide excellent image-based and interactive explanations 
 | **Khan Academy — Thermodynamics** | Video lessons with visual diagrams on heat transfer, thermal equilibrium, and energy | [Visit →](https://www.khanacademy.org/science/physics/thermodynamics) |
 | **PhET Interactive Simulations** | Drag-and-drop simulations for "Energy Forms and Changes", "States of Matter", and "Gas Properties" — see molecules move in real time | [Visit →](https://phet.colorado.edu/en/simulations/filter?subjects=physics&type=html&sort=alpha&view=grid) |
 | **The Physics Classroom — Thermal Physics** | Step-by-step tutorials with clear diagrams on heat transfer, temperature, and thermal expansion | [Visit →](https://www.physicsclassroom.com/class/thermalP) |
-| **HyperPhysics — Thermodynamics** | Concept maps with linked image-based explanations, ideal for quick visual reference | [Visit →](http://hyperphysics.phy-astr.gsu.edu/hbase/thermo/thermo.html) |
+| **HyperPhysics — Thermodynamics** | Concept maps with linked image-based explanations, ideal for quick visual reference | [Visit →](https://hyperphysics.gsu.edu/hbase/thermo/thermo.html) |
 | **Khan Academy — Heat Transfer Video** | Animated explanation of conduction, convection, and radiation with everyday examples | [Visit →](https://www.khanacademy.org/science/hs-physics/x215e29cb31244fa1:modeling-energy/x215e29cb31244fa1:thermodynamics/v/heat-transfer-high-school-physics) |
-| **PhET — Energy Forms and Changes** | Interactive simulation showing heat flowing between objects, with visual energy representations | [Visit →](https://phet.colorado.edu/en/simulations/energy-forms-and-changes) |
+| **PhET — Energy Forms and Changes** | Interactive simulation showing heat flowing between objects, with visual energy representations | [Visit →](https://phet.colorado.edu/en/simulation/energy-forms-and-changes) |
 
 ---
 
